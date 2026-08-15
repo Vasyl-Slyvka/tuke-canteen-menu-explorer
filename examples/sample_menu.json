@@ -1,0 +1,23 @@
+{
+  "menu_date": "2026-08-17",
+  "source_url": "tests/fixtures/official_menu.html",
+  "count": 2,
+  "items": [
+    {
+      "canteen": "Jedáleň Jedlíkova 7",
+      "category": "Polievky",
+      "name": "Pol.domáca zeleninová 350ml",
+      "price_eur": "0.90",
+      "allergens": [1, 9]
+    },
+    {
+      "canteen": "Jedáleň Jedlíkova 7",
+      "category": "Mäsité jedlá",
+      "name": "Bravčové stehno na hubách 94g",
+      "price_eur": "4.20",
+      "allergens": []
+    }
+  ],
+  "warnings": []
+}
+
